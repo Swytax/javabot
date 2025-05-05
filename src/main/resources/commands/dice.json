@@ -1,0 +1,18 @@
+{
+  "name": "dice",
+  "description": "Lance un ou plusieurs dés du nombre de faces voulues",
+  "options": [
+    {
+      "name": "nombre",
+      "description": "Nombre de dés (de 1 à 50)",
+      "type": 10,
+      "required": true
+    },
+    {
+      "name": "faces",
+      "description": "Nombre de faces (au moins 2 faces)",
+      "type": 10,
+      "required": true
+    }
+  ]
+}

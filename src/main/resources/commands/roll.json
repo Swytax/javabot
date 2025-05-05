@@ -1,0 +1,18 @@
+{
+  "name": "roll",
+  "description": "Lancé de dés pour le JdR L5A",
+  "options": [
+    {
+      "name": "blanc",
+      "description": "Nombre de dés blancs",
+      "type": 10,
+      "required": true
+    },
+    {
+      "name": "noir",
+      "description": "Nombre de dés noirs",
+      "type": 10,
+      "required": true
+    }
+  ]
+}
